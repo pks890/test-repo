@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Pramod",
+        "age": 29,
+        "city":"Bihar"
+    },
+    {
+        "name":"Geetesh",
+        "age": 30,
+        "city":"Jodhpur"
+    },
+    {
+        "name":"Sai",
+        "age": 31,
+        "city":"Hydrabad"
+    },
+    {
+        "name":"Vanil",
+        "age": 32,
+        "city":"Jodhpur"
+    }
+
+]
