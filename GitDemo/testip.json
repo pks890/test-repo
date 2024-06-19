@@ -1,0 +1,14 @@
+[
+    {
+        "cidr": "192.168.1.0/24",
+        "class": "this is class C"
+    },
+    {
+        "cidr": "10.0.0.0/8",
+        "class": "this is class A"
+    },
+    {
+        "cidr": "172.16.0.0/12",
+        "class": "this is class B"
+    }
+]
