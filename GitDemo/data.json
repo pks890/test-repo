@@ -1,0 +1,32 @@
+[
+    {   
+        "username":"John Doe",
+        "name": "John Doe",
+        "age": 30,
+        "city": "New York"
+    },
+    {    
+        "username":"John Doe",
+        "name": "Jane Doe",
+        "age": 25,
+        "city": "Los Angeles"
+    },
+    {
+        "username":"pramod",
+        "name": "pramod",
+        "age": 25,
+        "city": "gurgaon"
+    },
+    {
+        "username":"rahul",
+        "name": "rahul",
+        "age": 25,
+        "city": "mumbai"
+    },
+    {
+        "username":"raja",
+        "name": "raja",
+        "age": 25,
+        "city": "bihar"
+    }
+]
